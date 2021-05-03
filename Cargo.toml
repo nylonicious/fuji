@@ -3,6 +3,8 @@ name = "fuji"
 edition = "2018"
 version = "0.0.0"
 authors = ["Nylonicious"]
+license = "MIT"
+repository = "https://github.com/nylonicious/fuji"
 description = "Reserved for future use."
 
 [dependencies]
