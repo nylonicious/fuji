@@ -1,0 +1,8 @@
+[package]
+name = "fuji"
+edition = "2018"
+version = "0.0.0"
+authors = ["Nylonicious"]
+description = "Reserved for future use."
+
+[dependencies]
